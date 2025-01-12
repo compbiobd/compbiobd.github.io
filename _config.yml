@@ -1,8 +1,8 @@
 title: CompBio'25
-description: Interdisciplinary Computational Biology Workshop 2025
-venue: Brac University
+description: Interdisciplinary Computational Biology Workshop'25
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  is_project_page: github.com/compbiobd
+  repository_url: https://github.com/compbiobd/compbiobd.github.io
+  is_project_page: https://github.com/compbiobd/compbiobd.github.io
