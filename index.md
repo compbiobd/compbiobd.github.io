@@ -19,7 +19,7 @@ layout: default
 - Guest Lecture by Prof. Tibra Ali
 - Hands-on Session: Building Predictive Models
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://github.com/compbiobd/compbiobd.github.io/blob/master/files/slides/Day3.pptx]' width='100%' height='600px' frameborder='0'>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://github.com/compbiobd/compbiobd.github.io/raw/refs/heads/master/files/slides/Day3.pptx]' width='100%' height='600px' frameborder='0'>
 
 ## Resources
 - [View Workshop Slides](#)
