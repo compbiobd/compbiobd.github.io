@@ -132,7 +132,7 @@ layout: default
 ---
 
 ## Event Photos
-<div class="event-photos">
+<div id="event-photos" class="event-photos">
   <img src="files/photos/IMG-20250112-WA0003.jpg" alt="Event Photo 1" width="300">
   <img src="files/photos/IMG-20250112-WA0004.jpg" alt="Event Photo 2" width="300">
   <img src="files/photos/IMG-20250112-WA0005.jpg" alt="Event Photo 3" width="300">
