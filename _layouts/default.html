@@ -13,10 +13,13 @@
     {% include head-custom.html %}
     <style>
       .page-header {
+        color: white;
+        padding: 20px;
+      }
+      .header-bg {
         background-image: url('files/photos/group.jpg');
         background-size: cover;
         background-position: center;
-        color: white;
         padding: 20px;
       }
       .page-header a {
@@ -40,16 +43,18 @@
   <body class="no-select">
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <!-- <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a> -->
-      {% endif %}
-      <a href="#resources" class="btn">Resources</a>
-      <a href="#participants" class="btn">Participants</a>
-      <a href="#event-photos" class="btn">Photos</a>
-    </header>
+    <div class="header-bg">
+      <header class="page-header" role="banner">
+        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        {% if site.github.is_project_page %}
+          <!-- <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a> -->
+        {% endif %}
+        <a href="#resources" class="btn">Resources</a>
+        <a href="#participants" class="btn">Participants</a>
+        <a href="#event-photos" class="btn">Photos</a>
+      </header>
+    </div>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
