@@ -5,47 +5,47 @@ layout: default
 <h1 style="text-align: center;">Speakers</h1>
 <div class="speakers">
   <div class="person">
-    <img src="files/face/aroy.png" alt="Dr. Amitava Roy" width="150">
+    <img src="files/face/aroy.png" alt="Dr. Amitava Roy" class="center-crop">
     <div><strong>Dr. Amitava Roy</strong></div>
     <div>Speaker</div>
-    <div>Professor, BRAC University</div>
+    <div>University of Montana, USA</div>
   </div>
   <div class="person">
-    <img src="files/face/aaa.png" alt="Prof. Amin Ahsan Ali" width="150">
+    <img src="files/face/aaa.png" alt="Prof. Amin Ahsan Ali" class="center-crop">
     <div><strong>Prof. Amin Ahsan Ali</strong></div>
     <div>Speaker</div>
-    <div>Professor, Independent University, Bangladesh</div>
+    <div>Independent University, Bangladesh</div>
   </div>
   <div class="person">
-    <img src="files/face/tali.jpeg" alt="Prof. Tibra Ali" width="150">
+    <img src="files/face/tali.jpeg" alt="Prof. Tibra Ali" class="center-crop">
     <div><strong>Prof. Tibra Ali</strong></div>
     <div>Speaker (Organizer)</div>
-    <div>Professor, BRAC University</div>
+    <div>BRAC University, Bangladesh</div>
   </div>
 </div>
 
 <h1 style="text-align: center;">Instructors</h1>
 <div class="instructors">
-  <div class="person">
-    <img src="files/photos/mir_sazzat_hossain.jpg" alt="Mir Sazzat Hossain" width="150">
-    <div><strong>Mir Sazzat Hossain</strong></div>
-    <div>Instructor</div>
-    <div>Researcher, Computational Biology</div>
-  </div>
-  <div class="person">
-    <img src="files/photos/rafat_hasan_khan.jpg" alt="Rafat Hasan Khan" width="150">
+   <div class="person">
+    <img src="files/photos/rafat_hasan_khan.jpg" alt="Rafat Hasan Khan" class="center-crop">
     <div><strong>Rafat Hasan Khan</strong></div>
     <div>Instructor</div>
     <div>Researcher, Computational Biology</div>
   </div>
   <div class="person">
-    <img src="files/photos/sakibul_islam_shishir.jpg" alt="Md Sakibul Islam" width="150">
+    <img src="files/photos/mir_sazzat_hossain.jpg" alt="Mir Sazzat Hossain" class="center-crop">
+    <div><strong>Mir Sazzat Hossain</strong></div>
+    <div>Instructor</div>
+    <div>Researcher, Computational Biology</div>
+  </div>
+ <div class="person">
+    <img src="files/photos/sakibul_islam_shishir.jpg" alt="Md Sakibul Islam" class="center-crop">
     <div><strong>Md Sakibul Islam</strong></div>
     <div>Instructor</div>
     <div>Researcher, Computational Biology</div>
   </div>
   <div class="person">
-    <img src="files/photos/sahadot_hossen.jpg" alt="Sahadot Hossen" width="150">
+    <img src="files/photos/sahadot_hossen.jpg" alt="Sahadot Hossen" class="center-crop">
     <div><strong>Sahadot Hossen</strong></div>
     <div>Instructor</div>
     <div>Researcher, Computational Biology</div>
@@ -205,6 +205,11 @@ layout: default
   }
   .person img {
     border-radius: 50%;
+  }
+  .center-crop {
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
   }
   .day-schedule {
     display: flex;
