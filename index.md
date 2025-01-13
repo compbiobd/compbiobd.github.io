@@ -136,11 +136,9 @@ layout: default
   <img src="files/photos/IMG-20250112-WA0003.jpg" alt="Event Photo 1" width="300">
   <img src="files/photos/IMG-20250112-WA0004.jpg" alt="Event Photo 2" width="300">
   <img src="files/photos/IMG-20250112-WA0005.jpg" alt="Event Photo 3" width="300">
-  <img src="files/photos/IMG-20250112-WA0006.jpg" alt="Event Photo 4" width="300">
   <img src="files/photos/IMG-20250112-WA0008.jpg" alt="Event Photo 5" width="300">
   <img src="files/photos/IMG-20250112-WA0009.jpg" alt="Event Photo 6" width="300">
   <img src="files/photos/IMG-20250112-WA0010.jpg" alt="Event Photo 7" width="300">
-  <img src="files/photos/IMG-20250112-WA0011.jpg" alt="Event Photo 8" width="300">
   <img src="files/photos/IMG-20250112-WA0012.jpg" alt="Event Photo 9" width="300">
 </div>
 
