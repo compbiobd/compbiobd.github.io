@@ -136,6 +136,7 @@ layout: default
 ## Participants
 <div id="participants">
 </div>
+
 ### Group 1
 <div class="participants">
   <div><strong>Preeti Rani Pal</strong></div>
