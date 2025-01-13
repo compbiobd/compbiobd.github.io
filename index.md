@@ -11,7 +11,7 @@ layout: default
     <div>University of Montana, USA</div>
   </div>
   <div class="person">
-    <img src="files/face/aaa.png" alt="Prof. Amin Ahsan Ali" class="center-crop">
+    <img src="files/face/aaa2.jpg" alt="Prof. Amin Ahsan Ali" class="center-crop">
     <div><strong>Prof. Amin Ahsan Ali</strong></div>
     <div>Speaker</div>
     <div>Independent University, Bangladesh</div>
