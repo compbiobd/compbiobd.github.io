@@ -201,7 +201,6 @@ layout: default
   }
   .person {
     text-align: center;
-    margin: 10px;
   }
   .person img {
     border-radius: 50%;
