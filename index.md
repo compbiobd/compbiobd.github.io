@@ -2,26 +2,30 @@
 layout: default
 ---
 
-<h1 style="text-align: center;">Speakers and Instructors</h1>
-<div class="speakers-instructors">
+<h1 style="text-align: center;">Speakers</h1>
+<div class="speakers">
   <div class="person">
-    <img src="files/photos/amitava_roy.jpg" alt="Dr. Amitava Roy" width="150">
+    <img src="files/face/aroy.png" alt="Dr. Amitava Roy" width="150">
     <div><strong>Dr. Amitava Roy</strong></div>
     <div>Speaker</div>
     <div>Professor, BRAC University</div>
   </div>
   <div class="person">
-    <img src="files/photos/amin_ahsan_ali.jpg" alt="Prof. Amin Ahsan Ali" width="150">
+    <img src="files/face/aaa.png" alt="Prof. Amin Ahsan Ali" width="150">
     <div><strong>Prof. Amin Ahsan Ali</strong></div>
     <div>Speaker</div>
     <div>Professor, Independent University, Bangladesh</div>
   </div>
   <div class="person">
-    <img src="files/photos/tibra_ali.jpg" alt="Prof. Tibra Ali" width="150">
+    <img src="files/face/tali.jpeg" alt="Prof. Tibra Ali" width="150">
     <div><strong>Prof. Tibra Ali</strong></div>
     <div>Speaker (Organizer)</div>
     <div>Professor, BRAC University</div>
   </div>
+</div>
+
+<h1 style="text-align: center;">Instructors</h1>
+<div class="instructors">
   <div class="person">
     <img src="files/photos/mir_sazzat_hossain.jpg" alt="Mir Sazzat Hossain" width="150">
     <div><strong>Mir Sazzat Hossain</strong></div>
@@ -189,7 +193,7 @@ layout: default
 </div>
 
 <style>
-  .speakers-instructors {
+  .speakers, .instructors {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
