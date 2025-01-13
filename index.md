@@ -6,21 +6,21 @@ layout: default
 <div class="speakers">
   <div class="person">
     <img src="files/face/aroy.png" alt="Dr. Amitava Roy" class="center-crop">
-    <div><strong>Dr. Amitava Roy</strong></div>
-    <div>Speaker</div>
-    <div>University of Montana, USA</div>
+    <div><strong>Prof. Amitava Roy</strong></div>
+    <div>Faculty affiliate</div>
+    <div>Department of Biomedical and Pharmaceutical Sciences, University of Montana, USA</div>
   </div>
   <div class="person">
     <img src="files/face/aaa2.jpg" alt="Prof. Amin Ahsan Ali" class="center-crop">
     <div><strong>Prof. Amin Ahsan Ali</strong></div>
-    <div>Speaker</div>
-    <div>Independent University, Bangladesh</div>
+    <div>Professor</div>
+    <div>Dept of CSE and Director AI and ML Wing, Center for Computational & Data Sciences (CCDS), Independent University, Bangladesh</div>
   </div>
   <div class="person">
     <img src="files/face/tali.jpeg" alt="Prof. Tibra Ali" class="center-crop">
     <div><strong>Prof. Tibra Ali</strong></div>
-    <div>Speaker (Organizer)</div>
-    <div>BRAC University, Bangladesh</div>
+    <div>Professor and Associate Dean (Research)</div>
+    <div>Dept of Math. and Natural Sciences, BRAC University, Bangladesh</div>
   </div>
 </div>
 
