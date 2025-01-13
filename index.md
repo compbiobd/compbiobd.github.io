@@ -110,7 +110,7 @@ layout: default
   <div class="day-content">
     <ul>
       <li>Introduction to AI and ML by Prof. Amin Ahsan Ali</li>
-      <li>Hands-on Session: ML model on GO-terms in Colab</li>
+      <li>Hands-on Session: ML tools on GO-terms</li>
     </ul>
   </div>
     <div class="day-embed">
@@ -124,7 +124,7 @@ layout: default
 <div class="day-schedule">
   <div class="day-content">
     <ul>
-      <li>Participants are given real-life use case tasks to solve using databank websites and ML analysis and training</li>
+      <li>Participants work on real-life use case tasks using databank websites and ML tools</li>
     </ul>
   </div>
   <div class="day-embed">
