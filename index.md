@@ -6,49 +6,63 @@ layout: default
 <div class="speakers">
   <div class="person">
     <img src="files/face/aroy.png" alt="Dr. Amitava Roy" class="center-crop">
-    <div><strong>Prof. Amitava Roy</strong></div>
-    <div>Faculty affiliate</div>
-    <div>Department of Biomedical and Pharmaceutical Sciences, University of Montana, USA</div>
+    <div class="person-info">
+      <div><strong>Prof. Amitava Roy</strong></div>
+      <div>Faculty Affiliate</div>
+      <div>Department of Biomedical and Pharmaceutical Sciences, University of Montana, USA</div>
+    </div>
   </div>
   <div class="person">
     <img src="files/face/aaa2.jpg" alt="Prof. Amin Ahsan Ali" class="center-crop">
-    <div><strong>Prof. Amin Ahsan Ali</strong></div>
-    <div>Professor</div>
-    <div>Dept of CSE and Director AI and ML Wing, Center for Computational & Data Sciences (CCDS), Independent University, Bangladesh</div>
+    <div class="person-info">
+      <div><strong>Prof. Amin Ahsan Ali</strong></div>
+      <div>Professor</div>
+      <div>Dept of CSE and Director AI and ML Wing, Center for Computational & Data Sciences (CCDS), Independent University, Bangladesh</div>
+    </div>
   </div>
   <div class="person">
     <img src="files/face/tali.jpeg" alt="Prof. Tibra Ali" class="center-crop">
-    <div><strong>Prof. Tibra Ali</strong></div>
-    <div>Professor and Associate Dean (Research)</div>
-    <div>Dept of Math. and Natural Sciences, BRAC University, Bangladesh</div>
+    <div class="person-info">
+      <div><strong>Prof. Tibra Ali</strong></div>
+      <div>Professor and Associate Dean (Research)</div>
+      <div>Dept of Math. and Natural Sciences, BRAC University, Bangladesh</div>
+    </div>
   </div>
 </div>
 
 <h1 style="text-align: center;">Instructors</h1>
 <div class="instructors">
-   <div class="person">
+  <div class="person">
     <img src="files/face/rhk.png" alt="Rafat Hasan Khan" class="center-crop">
-    <div><strong>Rafat Hasan Khan</strong></div>
-    <div>Research Assistant</div>
-    <div>CCDS, Independent University, Bangladesh</div>
+    <div class="person-info">
+      <div><strong>Rafat Hasan Khan</strong></div>
+      <div>Research Assistant</div>
+      <div>Center for Computational & Data Sciences (CCDS), Independent University, Bangladesh</div>
+    </div>
   </div>
   <div class="person">
     <img src="files/face/sh.png" alt="Mir Sazzat Hossain" class="center-crop">
-    <div><strong>Mir Sazzat Hossain</strong></div>
-    <div>Research Assistant</div>
-    <div>CCDS, Independent University, Bangladesh</div>
+    <div class="person-info">
+      <div><strong>Mir Sazzat Hossain</strong></div>
+      <div>Research Assistant</div>
+      <div>Center for Computational & Data Sciences (CCDS), Independent University, Bangladesh</div>
+    </div>
   </div>
- <div class="person">
+  <div class="person">
     <img src="files/face/si.jpeg" alt="Md Sakibul Islam" class="center-crop">
-    <div><strong>Md Sakibul Islam</strong></div>
-    <div>Computational Biologist</div>
-    <div>Gene Reveal</div>
+    <div class="person-info">
+      <div><strong>Md Sakibul Islam</strong></div>
+      <div>Computational Biologist</div>
+      <div>Gene Reveal</div>
+    </div>
   </div>
   <div class="person">
     <img src="files/face/sh.jpeg" alt="Sahadot Hossen" class="center-crop">
-    <div><strong>Sahadot Hossen</strong></div>
-    <div>Computational Biologist</div>
-    <div>Gene Reveal</div>
+    <div class="person-info">
+      <div><strong>Sahadot Hossen</strong></div>
+      <div>Computational Biologist</div>
+      <div>Gene Reveal</div>
+    </div>
   </div>
 </div>
 
@@ -201,6 +215,7 @@ layout: default
   }
   .person {
     text-align: center;
+    max-width: 300px;
   }
   .person img {
     border-radius: 50%;
@@ -209,6 +224,10 @@ layout: default
     object-fit: cover;
     width: 150px;
     height: 150px;
+  }
+  .person-info {
+    max-width: 250px;
+    margin: 0 auto;
   }
   .instructors .person {
     flex: 1 1 45%;
