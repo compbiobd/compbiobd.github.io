@@ -30,13 +30,13 @@ layout: default
     <img src="files/face/rhk.png" alt="Rafat Hasan Khan" class="center-crop">
     <div><strong>Rafat Hasan Khan</strong></div>
     <div>Instructor</div>
-    <div>Research Assistant, Center for Computational & Data Sciences</div>
+    <div>Research Assistant, CCDS</div>
   </div>
   <div class="person">
     <img src="files/face/sh.png" alt="Mir Sazzat Hossain" class="center-crop">
     <div><strong>Mir Sazzat Hossain</strong></div>
     <div>Instructor</div>
-    <div>Research Assistant, Center for Computational & Data Sciences</div>
+    <div>Research Assistant, CCDS</div>
   </div>
  <div class="person">
     <img src="files/face/si.jpeg" alt="Md Sakibul Islam" class="center-crop">
