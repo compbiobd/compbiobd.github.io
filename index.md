@@ -211,6 +211,10 @@ layout: default
     width: 150px;
     height: 150px;
   }
+  .instructors .person {
+    flex: 1 1 45%;
+    margin: 10px;
+  }
   .day-schedule {
     display: flex;
     align-items: center;
