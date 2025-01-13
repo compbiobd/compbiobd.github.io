@@ -190,7 +190,6 @@ layout: default
   <img src="files/photos/IMG-20250112-WA0008.jpg" alt="Event Photo 5" width="300">
   <img src="files/photos/IMG-20250112-WA0009.jpg" alt="Event Photo 6" width="300">
   <img src="files/photos/IMG-20250112-WA0010.jpg" alt="Event Photo 7" width="300">
-  <img src="files/photos/IMG-20250112-WA0012.jpg" alt="Event Photo 9" width="300">
 </div>
 
 <style>
