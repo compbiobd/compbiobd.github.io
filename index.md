@@ -29,26 +29,26 @@ layout: default
    <div class="person">
     <img src="files/face/rhk.png" alt="Rafat Hasan Khan" class="center-crop">
     <div><strong>Rafat Hasan Khan</strong></div>
-    <div>Instructor</div>
-    <div>Research Assistant, CCDS</div>
+    <div>Research Assistant</div>
+    <div>Center for Computational & Data Sciences</div>
   </div>
   <div class="person">
     <img src="files/face/sh.png" alt="Mir Sazzat Hossain" class="center-crop">
     <div><strong>Mir Sazzat Hossain</strong></div>
-    <div>Instructor</div>
-    <div>Research Assistant, CCDS</div>
+    <div>Research Assistant</div>
+    <div>Center for Computational & Data Sciences</div>
   </div>
  <div class="person">
     <img src="files/face/si.jpeg" alt="Md Sakibul Islam" class="center-crop">
     <div><strong>Md Sakibul Islam</strong></div>
-    <div>Instructor</div>
-    <div>Computational Biologist, Gene Reveal</div>
+    <div>Computational Biologist</div>
+    <div>Gene Reveal</div>
   </div>
   <div class="person">
     <img src="files/face/sh.jpeg" alt="Sahadot Hossen" class="center-crop">
     <div><strong>Sahadot Hossen</strong></div>
-    <div>Instructor</div>
-    <div>Computational Biologist, Gene Reveal</div>
+    <div>Computational Biologist</div>
+    <div>Gene Reveal</div>
   </div>
 </div>
 
