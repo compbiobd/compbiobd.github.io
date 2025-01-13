@@ -27,28 +27,28 @@ layout: default
 <h1 style="text-align: center;">Instructors</h1>
 <div class="instructors">
    <div class="person">
-    <img src="files/photos/rafat_hasan_khan.jpg" alt="Rafat Hasan Khan" class="center-crop">
+    <img src="files/face/rhk.png" alt="Rafat Hasan Khan" class="center-crop">
     <div><strong>Rafat Hasan Khan</strong></div>
     <div>Instructor</div>
-    <div>Researcher, Computational Biology</div>
+    <div>Research Assistant, Center for Computational & Data Sciences</div>
   </div>
   <div class="person">
-    <img src="files/photos/mir_sazzat_hossain.jpg" alt="Mir Sazzat Hossain" class="center-crop">
+    <img src="files/face/sh.png" alt="Mir Sazzat Hossain" class="center-crop">
     <div><strong>Mir Sazzat Hossain</strong></div>
     <div>Instructor</div>
-    <div>Researcher, Computational Biology</div>
+    <div>Research Assistant, Center for Computational & Data Sciences</div>
   </div>
  <div class="person">
-    <img src="files/photos/sakibul_islam_shishir.jpg" alt="Md Sakibul Islam" class="center-crop">
+    <img src="files/face/si.jpeg" alt="Md Sakibul Islam" class="center-crop">
     <div><strong>Md Sakibul Islam</strong></div>
     <div>Instructor</div>
-    <div>Researcher, Computational Biology</div>
+    <div>Computational Biologist, Gene Reveal</div>
   </div>
   <div class="person">
-    <img src="files/photos/sahadot_hossen.jpg" alt="Sahadot Hossen" class="center-crop">
+    <img src="files/face/sh.jpeg" alt="Sahadot Hossen" class="center-crop">
     <div><strong>Sahadot Hossen</strong></div>
     <div>Instructor</div>
-    <div>Researcher, Computational Biology</div>
+    <div>Computational Biologist, Gene Reveal</div>
   </div>
 </div>
 
