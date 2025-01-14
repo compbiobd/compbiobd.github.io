@@ -98,8 +98,8 @@ layout: default
     </ul>
   </div>
   <div class="day-embed">
-    <embed src="files/slides/intro_compbio.pdf" width='500rem' height='300rem' />
-    <!-- <embed src="files/slides/What_is_archived_in_PDB.pdf" width='500rem' height='300rem' /> -->
+    <object data="files/slides/intro_compbio.pdf" width='500rem' height='300rem' />
+    <!-- <object data="files/slides/What_is_archived_in_PDB.pdf" width='500rem' height='300rem' /> -->
   </div>
 </div>
 
@@ -114,7 +114,7 @@ layout: default
     </ul>
   </div>
     <div class="day-embed">
-    <embed src="files/slides/Intro to AI_ML_Compbio.pdf" width='500rem' height='300rem' />
+    <object data="files/slides/Intro to AI_ML_Compbio.pdf" width='500rem' height='300rem' />
     </div>
 </div>
 
@@ -128,7 +128,7 @@ layout: default
     </ul>
   </div>
   <div class="day-embed">
-    <embed src="files/slides/Day3.pdf" width='500rem' height='300rem' />
+    <object data="files/slides/Day3.pdf" width='500rem' height='300rem' />
   </div>
 </div>
 
